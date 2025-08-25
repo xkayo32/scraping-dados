@@ -45,7 +45,7 @@ scraping-dados/
 
 ### Pré-requisitos
 
-- Python 3.8 ou superior
+- Python 3.10 ou superior
 - pip (gerenciador de pacotes Python)
 - Conexão com internet para baixar as notícias
 
